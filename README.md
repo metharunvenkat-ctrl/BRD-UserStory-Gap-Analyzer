@@ -1,8 +1,10 @@
 # BRD & UserStory Gap Analyzer
 
+> 🎓 **Capstone Project for Neviton Technologies**
+
 An advanced, automated Retrieval-Augmented Generation (RAG) pipeline and full-stack application designed to evaluate document disparities, analyze requirements coverage, and detect structural functional gaps between Business Requirement Documents (BRDs), User Stories, and Acceptance Criteria (AC).
 
-Natively ingesting unstandardized client documentation (PDFs, Word `.docx`, Markdown), the platform leverages **Docling** for document parsing, **OpenAI (GPT-4o)** for structured requirement extraction and gap evaluation, and **PostgreSQL with `pgvector`** for semantic vector similarity retrieval.
+Developed as a capstone project for **Neviton Technologies**, the platform natively ingests unstandardized client documentation (PDFs, Word `.docx`, Markdown), leveraging **Docling** for document parsing, **OpenAI (GPT-4o)** for structured requirement extraction and gap evaluation, and **PostgreSQL with `pgvector`** for semantic vector similarity retrieval.
 
 ---
 
@@ -140,3 +142,5 @@ BRD-UserStory-Gap-Analyzer/
 
 - [metharunvenkat-ctrl](https://github.com/metharunvenkat-ctrl)
 - Claude
+
+*Capstone Project for **Neviton Technologies**.*
