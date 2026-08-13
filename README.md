@@ -79,8 +79,8 @@ flowchart TD
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/metharunvenkat-ctrl/brd-userstory-gap-analyzer.git
-   cd brd-userstory-gap-analyzer
+   git clone https://github.com/metharunvenkat-ctrl/BRD-UserStory-Gap-Analyzer.git
+   cd BRD-UserStory-Gap-Analyzer
    ```
 
 2. **Configure Environment Variables:**
@@ -112,7 +112,7 @@ flowchart TD
 ## 📚 Project Structure
 
 ```
-brd-userstory-gap-analyzer/
+BRD-UserStory-Gap-Analyzer/
 ├── data/                      # Sample datasets, knowledge base uploads, metadata
 ├── docs/                      # Technical documentation (ARCHITECTURE.md, SETUP.md, etc.)
 ├── frontend/                  # React + Vite web dashboard application
@@ -138,11 +138,5 @@ brd-userstory-gap-analyzer/
 
 ## 👥 Contributors & Credits
 
-- **Original Author & Maintainer**: Ajey ([@AjeyDS](https://github.com/AjeyDS)) – Conceptualized and implemented the initial RAG-Based Document Gap Analysis Pipeline.
-- **Maintainer**: [metharunvenkat-ctrl](https://github.com/metharunvenkat-ctrl)
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
+- [metharunvenkat-ctrl](https://github.com/metharunvenkat-ctrl)
+- Claude
